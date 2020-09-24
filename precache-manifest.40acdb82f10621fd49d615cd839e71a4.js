@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "881b0eb86442d3d7af78adc29b60edf1",
+    "revision": "7254fd3f36903c67ed112a4812f087a5",
     "url": "/movie_app_apollo/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/movie_app_apollo/static/js/2.0124625d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4fac257542ca11600cde",
-    "url": "/movie_app_apollo/static/js/main.4b44c05f.chunk.js"
+    "revision": "a8d7be08df23a18db660",
+    "url": "/movie_app_apollo/static/js/main.2f922435.chunk.js"
   },
   {
     "revision": "49bced4ca2a6211e3648",
