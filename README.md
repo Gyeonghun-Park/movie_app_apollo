@@ -5,4 +5,4 @@
 ## Run The Server First
 
 - Server: https://codesandbox.io/s/runtime-monad-o0tev
-- Homepage: https://gyeonghun-park.github.io/gwitter/#/
+- Homepage: https://gyeonghun-park.github.io/movie_app_apollo/#/
